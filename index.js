@@ -1,4 +1,3 @@
-//Hi Everyone
 var readlineSync = require("readline-sync");
 
 var questions = [{
